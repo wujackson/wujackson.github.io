@@ -1,6 +1,6 @@
-## jsckson's blog powered by jekyll
+## jackson's blog powered by jekyll
 
-[jsckson's blog](https://wujsckson.github.io)
+[jackson's blog](https://wujackson.github.io)
 
 ## Usage
 
